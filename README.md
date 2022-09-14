@@ -10,7 +10,8 @@ the mechanism design based on token economics and insures that no prospective ow
 
 
 
-## Built With [![Next][Next.js]][Next-url]
+## Built With 
+[![Next][Next.js]][Next-url]
 
 ## Demo
 Here is a working live demo: [Web3-lottery-v1](http://web3-lottery-v1.vercel.app)

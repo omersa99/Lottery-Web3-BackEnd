@@ -1,6 +1,10 @@
 # Lottery Smart Contract - WEB3 BackEnd
 With this smart contract you can manage any form of lottery games that involves the drawing of numbers at random for a prize and handing out tickets.
 
+<p align="center">
+<img width="396" alt="Screenshot 2022-09-07 at 17 07 39" src="https://user-images.githubusercontent.com/72961940/190094151-9da6bdf4-0fe9-43fb-a605-54b6d81b8533.png">
+  </p>
+
 the mechanism design based on token economics and insures that no prospective owner-occupant has an unfair advantage in the determination of winner.
 
 
@@ -11,7 +15,8 @@ the mechanism design based on token economics and insures that no prospective ow
 ## Demo
 Here is a working live demo: [Web3-lottery-v1](http://web3-lottery-v1.vercel.app)
 
-Deploy the CONTRACT DIRECTLY here: [BackEnd API](https://thirdweb.com/0x741179Acd84FeDEb7315a8ce4149f5cEF914185c/Lottery)
+
+Deploy the BackEnd Smart Contract DIRECTLY here: [BackEnd API](https://thirdweb.com/0x741179Acd84FeDEb7315a8ce4149f5cEF914185c/Lottery)
 
 <!-- GETTING STARTED -->
 ## Getting Started
